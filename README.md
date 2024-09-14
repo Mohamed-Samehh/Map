@@ -83,4 +83,4 @@ The project can be ready for deployment on Netlify using the following command:
 
 1. **Build the Project**:
    ```bash
-   ng build --prod --output-path docs --base-href /Map/
+   ng build --prod --output-path docs
