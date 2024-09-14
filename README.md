@@ -79,7 +79,7 @@ After launching the application:
 
 ## Deployment
 
-The project can be ready for deployment using the following steps:
+The project can be ready for deployment on Netlify using the following command:
 
 1. **Build the Project**:
    ```bash
